@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jessie Harney/ PhD Student in Public Policy"
+title                    : "Jessie Harney/ PhD Candidate in Public Policy"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "I am a person."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jessie Harney"
   avatar           : "profile.png"
-  bio              : "PhD Student in Public Policy"
+  bio              : "PhD Candidate in Public Policy"
   location         : "Goldman School of Public Policy"
   employer         : "jharney@berkeley.edu"
   pubmed           : 
