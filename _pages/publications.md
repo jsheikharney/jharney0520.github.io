@@ -23,4 +23,5 @@ Lerman, A.E., & Harney, J. (2019). [Feedback Effects and the Criminal Justice Bu
 <br>
 Harney, J., &  Lerman, A.E. Clarifying the Role of Officer Coping on Turnover in Corrections: An Application of Structural Equation Modeling.
 <br>
+<br>
 Harney, J. The Power of Empathy: Experimental Evidence of the Impact of Perspective-Focused Interventions on Support for Prison Reform.
